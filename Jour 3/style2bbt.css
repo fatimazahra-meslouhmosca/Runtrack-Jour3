@@ -1,0 +1,19 @@
+#container
+{
+    display: flex;
+    justify-content: space-around; 
+      background-color: lightslategrey;
+}
+#container img{
+    height: 200px;
+ 
+}
+h1,h2{
+    text-align: center;
+    background-color: lightslategrey;
+}
+#lep{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
